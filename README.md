@@ -11,4 +11,4 @@ I'm an open source developer. 🌱
 [![My Skills](https://skillicons.dev/icons?i=gtk,django,nodejs,express)](https://skillicons.dev)
 
 #### Other
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,cmake,aws)](https://skillicons.dev)
