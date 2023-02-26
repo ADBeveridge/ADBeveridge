@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm an open source developer. 🌱 
 
-![](https://komarev.com/ghpvc/?username=adbeveridge)
-
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,python,markdown,rust)](https://skillicons.dev)
 
