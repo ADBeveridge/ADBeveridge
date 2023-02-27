@@ -8,8 +8,7 @@ I'm an open source developer. 🌱
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,linux,raspberrypi,stackoverflow,git)](https://skillicons.dev)
 
 #### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=gtk,django,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gtk,django,nodejs,express,deno)](https://skillicons.dev)
 
 #### Other
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,cmake,aws)](https://skillicons.dev)
-
