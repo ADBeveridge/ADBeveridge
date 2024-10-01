@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an open source developer. 🌱 
+I like to develop computer software. 🌱 
 
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,rust,python,markdown)](https://skillicons.dev)
